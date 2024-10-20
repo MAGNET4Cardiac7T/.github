@@ -1,7 +1,7 @@
 # MAGNET4Cardiac7T
 Predicting MAGNETic fields for(4) Cardiac 7T MRI imaging
 
-![image](logo_magnet.svg)
+![image](logo_magnet.svg  | width=100)
 
 ## Motivation
 
@@ -22,4 +22,4 @@ This project is done in cooperation with:
 
 [Data Science Chair (X), University of Würzburg](https://dmir.org/)
 
-[Deutsches Zentrum für Herzinsufizienz (DZHI), Universitätsklinikum Würzburg] (https://www.ukw.de/behandlungszentren/dzhi/startseite/)
+[Deutsches Zentrum für Herzinsufizienz (DZHI), Universitätsklinikum Würzburg](https://www.ukw.de/behandlungszentren/dzhi/startseite/)
