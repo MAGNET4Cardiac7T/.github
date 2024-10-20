@@ -1,7 +1,7 @@
 # MAGNET4Cardiac7T
 Predicting MAGNETic fields for(4) Cardiac 7T MRI imaging
 
-![image](magnet_logo.svg)
+![image](logo_magnet.svg)
 
 ## Motivation
 
